@@ -3,10 +3,11 @@ Collection of different Sorting and Searching Algorithms in C++
 
 <h1 align="center"> Sort 🔀 📶 </h1>
 
-
 | Name | Short Description |
 |:-------------:|:---------:|
+| [Bubble Sort](https://github.com/OsemaFadhel/Algorithms/tree/main/sorting) | compares two adjacent elements and swaps them until they are in the intended order. |
 | [Merge Sort](https://github.com/OsemaFadhel/Algorithms/tree/main/sorting) | Divide and conquers algorithm, it divides the given array into equal parts and then merges the 2 sorted parts.  |
+
 
 
 <h1 align="center"> Search 🔎</h1>
