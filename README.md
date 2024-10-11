@@ -9,7 +9,7 @@ Collection of different Sorting and Searching Algorithms in C++
 | [Merge Sort](https://github.com/OsemaFadhel/Algorithms/tree/main/sorting) | Divide and conquers algorithm, it divides the given array into equal parts and then merges the 2 sorted parts.  |
 
 
-<h2>Search 🔎</h2>
+<h1 align="center"> Search 🔎</h1>
 
 | Name | Short Description |
 |:-------------:|:---------:|
