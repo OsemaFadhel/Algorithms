@@ -1,6 +1,6 @@
 # Binary Search
 
-<h2 align="center"> <img src="https://github.com/OsemaFadhel/Algorithms/tree/main/searching/Binary%20Search/binary_search.png" width="800" height="380" /> </h2>
+<h2 align="center"> <img src="https://github.com/OsemaFadhel/Algorithms/blob/main/searching/Binary%20Search/binary_search.png" width="800" height="380" /> </h2>
 
 Binary Search is an efficient algorithm used to find the position of a target element in a sorted array. </br>
 The main idea behind the algorithm is to repeatedly divide the search interval in half.
