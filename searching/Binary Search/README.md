@@ -15,12 +15,12 @@ The main idea behind the algorithm is to repeatedly divide the search interval i
 
 ## Time Complexity:
 
-- Best case: O(1) (when the middle element is the target)
-- Average and Worst case: O(log n), where n is the number of elements in the array.
+- **Best case:** O(1) (when the middle element is the target)
+- **Average and Worst case:** O(log n), where n is the number of elements in the array.
 
 ## Space Complexity:
 
-- O(1) for the iterative approach (since it only uses a few extra variables, regardless of input size).
-- O(log n) for the recursive approach (due to the space used by the call stack during recursion).
+- **O(1)** for the iterative approach (since it only uses a few extra variables, regardless of input size).
+- **O(log n)** for the recursive approach (due to the space used by the call stack during recursion).
 
 ### Binary Search is faster than a linear search for large datasets, but it only works on sorted arrays.
