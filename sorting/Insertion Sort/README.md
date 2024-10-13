@@ -1,6 +1,6 @@
 # Insertion Sort
 
-<h2 align="center"> <img src="" width="400" height="700" /> </h2>
+<h2 align="center"> <img src="https://github.com/OsemaFadhel/Algorithms/blob/main/sorting/Insertion%20Sort/Insertion-Sort.png" width="400" height="700" /> </h2>
 
 
 Insertion Sort is a simple sorting algorithm that builds the final sorted array one element at a time. It is much like sorting a deck of cards by repeatedly taking one card and inserting it into its correct position among the already-sorted cards.
